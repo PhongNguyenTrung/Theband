@@ -16,7 +16,10 @@ html{
 #header{
     height: 46px;
     background-color: black;
-    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
 }
 
 #nav{
@@ -79,7 +82,7 @@ html{
     top: 0;
     right: 0;
     color: white;
-    height: 100%;
+    height: 46px;
     padding: 15px 24px;
 }
 
@@ -92,14 +95,156 @@ html{
 }
 
 #slider{
-    /* height: 500px;
-    background-color: aqua; */
+    margin-top: 46px;
+    padding-top: 50%;
+    background: url("/w3_theband/assets/img/la.jpg") top center / cover no-repeat ;
+
+}
+.text-content{
+    color: white;
+    padding: 32px;
+    text-align: center;
+    font-size: 15px;
+}
+.text-content .content-heading{
+    padding: 25px;
+    font-size: 24px;
 }
 
 #content{
-
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
 }
 
+/* content-section */
+.content-section{
+    padding: 64px 30px;
+    max-width: 900px;
+    margin: auto auto;
+}
+.section-heading{
+    font-size: 30px;
+    font-family: "Segoe UI", sans-serif;
+    font-weight: 400;
+    margin: 10px;
+    text-align: center;
+    letter-spacing: 4px;
+
+}
+.subsection-heading{
+    margin: 15px;
+    text-align: center;
+    font-style: italic;
+    opacity: 0.6;
+}
+.about-text{
+    font-family: "Lato", sans-serif;
+    margin: 15px;
+    text-align: justify;
+    line-height: 1.4;
+}
+
+#content .member-list{
+    padding-top: 32px;
+    overflow: hidden;
+}
+
+#content .member-item{
+    width: calc(100%/3);
+    float: left;
+    text-align: center;
+}
+#content .member-item img{
+    width: 150px;
+    border-radius: 4px;
+    margin: 15px;
+}
+
+.text-white{
+    color: white !important;
+}
+/* Tour-section */
+.tour-section{
+    background-color: black;
+}
+.tickets-list{
+    background-color: white;
+    margin-top: 40px;
+    list-style: none;
+}
+.tickets-list li{
+    padding: 10px 16px;
+    font-size: 15px;
+    color: #757575;
+    border-bottom: 1px solid #dddd;
+}
+.soldout{
+    color: white;
+    background-color: #F44336;
+    padding: 3px 4px;
+    margin-left: 16px;
+}
+
+.tickets-list li .quantity{
+    background: black;
+    float: right;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    text-align: center;
+    margin-top: -2px;
+    margin-right: 16px;
+}
+/* Buy tickets */
+.place-list{
+    overflow: hidden;
+    margin-top: 32px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 36px;
+}
+.place{
+    float: left;
+    width: calc(100%/3);
+    padding: 8px;
+}
+.place img{
+    width: 100%;
+    float: left;
+}
+.place img:hover{
+    opacity: 0.7;
+}
+.place-body{
+    background-color: white;
+    padding: 16px;
+    padding-bottom: 24px;
+}
+.place-heading{
+    padding-top: 15px;
+    display: inline-block;
+    font-size: 15px;
+}
+.place-date{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #757575;
+}
+.place-content{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.place-buy-button{
+    color: white;
+    background: #000;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin-bottom: 16px !important;
+}
+.place-buy-button:hover{
+    color: black;
+    background: #ccc;
+}
 #footer{
 
 }
