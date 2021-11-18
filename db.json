@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "name": "Tôm chiên sốt chanh",
+      "price": "150",
+      "description": "Tôm chiên xốt chanh là tổng hòa vị tôm ngọt với vị chanh chua chua, thanh thanh , thơm thơm. Cắn vào lớp vỏ giòn chấm nước sốt cay nhẹ, thật là sự kết hợp tuyệt vời.",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/Hn58DuC.jpg",
+      "id": 1
+    },
+    {
+      "name": "Thịt heo xông khói sả",
+      "price": "130",
+      "description": "Chỉ cần những nguyên liệu và thao tác đơn giản, nhanh chóng bạn sẽ có ngay món thịt heo xông khói ngon lành, vàng nâu đẹp mắt và thơm lừng mùi sả, ăn “ghiền” lúc nào không hay đấy!",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/DbMygkK.jpg",
+      "id": 2
+    },
+    {
+      "name": "Sandwich nướng trứng sốt",
+      "price": "110",
+      "description": "Bánh sandwich giòn giòn, rau củ thanh ngọt, ba rọi xông khói thơm thơm. Tất cả hòa quyện hương vị đậm đà, beo béo của xốt Mayonnaise Aji-mayo ngọt dịu.",
+      "image": "https://i.imgur.com/t8YfMx7.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "id": 3
+    },
+    {
+      "name": "Sandwich kẹp chả tôm",
+      "price": "120",
+      "description": "Sandwich Kẹp Chả Tôm nhanh gọn, mà đủ đầy dinh dưỡng.",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/INPvD0E.jpg",
+      "id": 4
+    },
+    {
+      "name": "Salad mùa hè",
+      "price": "70",
+      "description": "Ngày hè mà ăn salad trái cây thì tuyệt cú mèo luôn nha. Nhìn màu sắc hài hòa tự nhiên của các loại trái cây cũng đã thấy tươi mát chứ chưa nói đến ăn!",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/LZAOWyJ.jpg",
+      "id": 6
+    },
+    {
+      "name": "Salad cầu vồng ngày hè",
+      "price": "70",
+      "description": "Rau củ tươi giòn, bơ dẻo bùi, còn bưởi thì chua ngọt, quyện cùng xốt Mayonnaise Aji-mayo beo béo, hòa với những lát thịt xá xíu đậm đà và mực thơm mùi sả. Ăn tới đâu, đã thèm tới đó.",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/miB3tdo.jpg",
+      "id": 9
+    },
+    {
+      "name": "Salad cam cá hồi",
+      "price": "90",
+      "description": "Một món ăn cực kỳ thích hợp cho các nàng muốn có dáng đẹp, làn da xinh! Với sự kết hợp của cam vàng chứa nhiều vitamin C, các loại salad tươi mát & cả cá hồi giàu dinh dưỡng mang lại càm giác mới lạ.",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/gKs0HAn.jpg",
+      "id": 10
+    },
+    {
+      "name": "Pasta tình yêu",
+      "price": "120",
+      "description": "Bạn đã có ý tưởng cho bữa tối lãng mạn trong hơi nóng của ngày Valentine chưa? Hãy thử món ăn tuyệt vời mang tinh thần ấy nhé - Pasta tình yêu. Với Pasta mềm dai, vị phomai béo mặn và sốt cà chua thịt bò chua ngọt dậy mùi vang.",
+      "image": "https://i.imgur.com/6swq5BG.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "createdAt": 1635073510186,
+      "id": 12
+    },
+    {
+      "name": "Pancake socola giáng sinh",
+      "price": "100",
+      "description": "Bữa tiệc Giáng Sinh bên gia đình sẽ càng thêm hoàn hảo với món Pancake Socola cả nhà đều thích! Vừa đẹp – vừa ngon, Mẹ ghi chú để trổ tài ngay nha!",
+      "image": "https://i.imgur.com/Kb7i9qJ.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "createdAt": 1635144716091,
+      "id": 14
+    },
+    {
+      "name": "Pancake bò bằm",
+      "price": "170",
+      "description": "Với cách biến tấu hoàn toàn mới từ đầu bếp, món pancake bò bằm với phần bánh xốp mịn thơm vị phô mai, kết hợp thịt bằm & các loại rau",
+      "image": "https://i.imgur.com/XainHz5.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "createdAt": 1635144772206,
+      "id": 15
+    },
+    {
+      "name": "Mỳ Ý xốt vẹm",
+      "price": "200",
+      "description": "Mỳ spaghetty với nguyên liệu mới chứa nhiều protein và vitamin: vẹm xanh. Từng sợi mì dai kết hợp miếng vẹm mềm thịt, ngọt thanh, lại thoảng nhẹ hương rượu vang và lá hương thảo khiến món ăn vừa tinh tế theo kiểu châu Âu, lại vừa nhẹ bụng như ẩm thực châu Á!",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/RDRwDtK.jpg",
+      "id": 17
+    },
+    {
+      "name": "Canh cải xoăn",
+      "price": "40",
+      "description": "Cải xoăn dồi dào vitamin C, lại giàu chất xơ, đem nấu cùng nồi thịt xay trộn đều với trứng gà. Màu sắc bắt mắt từ đỏ, vàng, xanh của rau củ, nước canh thì rất trong, dọn ra rồi húp từng ngụm nóng hổi cùng cả nhà, quá hấp dẫn!",
+      "image": "https://i.imgur.com/sUWBtCY.jpg",
+      "status": "1",
+      "writer": "Admin",
+      "createdAt": 1635912890648,
+      "id": 18
+    },
+    {
+      "name": "Cá thu chiên giòn xốt chanh dây",
+      "price": "180",
+      "description": "Xốt chanh dây ngon miệng với vị chua dịu như một loại gia vị rất “Tây”, kết hợp cùng cá thu chiên giòn “rất quen” tạo thành một món ăn đầy sắc màu, đủ vị ngọt chua và tròn đầy dinh dưỡng.",
+      "status": "1",
+      "writer": "Admin",
+      "image": "https://i.imgur.com/1IbVGj2.jpg",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "email": "an56700890@gmail.com",
+      "password": "$2a$10$CStggUPDLJ3fG0OWq4vpReD6QAd57dNPosUwmJAidM7TyWgTMeCm2",
+      "roleId": "user",
+      "username": "BatMan",
+      "id": "BtRJ2RZ"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$yD.dkxcom8gCBta2j6FkgeRYjE7ikbK0iPXTNyvJHP600OV.eoyf2",
+      "roleId": "admin",
+      "username": "Admin",
+      "id": "AH_6u3m",
+      "avatar": "http://res.cloudinary.com/annnn/image/upload/v1635215582/d03iqudeg7iltmrrhkbs.jpg"
+    },
+    {
+      "email": "an567@gmail.com",
+      "password": "$2a$10$MNabD1KpIst3CGMf735AWeuaXlIvpuxEP.zAhjmtrtNJAIJG36U..",
+      "roleId": "user",
+      "username": "Angg78",
+      "id": "x9ZWmZf",
+      "avatar": "http://res.cloudinary.com/annnn/image/upload/v1635215523/fpgn2ndbtho5y1q4eduw.jpg"
+    },
+    {
+      "email": "an5670089009@gmail.com",
+      "password": "$2a$10$GjPZdCwlEve2ygpA9.6Zi.m6KBEInvYL29wZLfoiVwFj3rPQhIy3O",
+      "roleId": "user",
+      "username": "Ông trùm",
+      "id": "DlY0C6t"
+    },
+    {
+      "email": "an6764545@gmail.com",
+      "password": "$2a$10$08qpr/.3yOcH8fL0PKpD8OR/Z5BGsCBsDWvZPCpex8a.KYV9bkRDG",
+      "roleId": "user",
+      "username": "andev",
+      "id": "lQx076F"
+    },
+    {
+      "email": "an678@gmail.com",
+      "password": "$2a$10$VbIVKHWUaAcIwFX0ONkrXeNlaav5rt1a8xnXEnc1eUuOYvzZTd/aG",
+      "roleId": "user",
+      "username": "An69",
+      "id": "PcMHM-I"
+    }
+  ],
+  "historyBuyProducts": [
+    {
+      "userId": "5hlZ4t2",
+      "email": "quang@gmail.com",
+      "name": "Quang",
+      "address": "VN",
+      "phone": "02453200222",
+      "ma_don_hang": "e2fe3a67-4f21-49af-8216-871a47b39776",
+      "price": 150,
+      "status": "Đang giao",
+      "createdAt": 1635912997517,
+      "id": 1
+    }
+  ],
+  "comment": [
+    {
+      "username": "Angg78",
+      "productId": "2",
+      "content": "Món này khá ngon",
+      "createdAt": 1635215379210,
+      "id": 1
+    }
+  ],
+  "detailsCart": [
+    {
+      "ma_don_hang": "e2fe3a67-4f21-49af-8216-871a47b39776",
+      "detailsCart": [
+        {
+          "name": "Tôm chiên xốt chanh",
+          "price": "150k",
+          "description": "Tôm chiên xốt chanh là tổng hòa vị tôm ngọt với vị chanh chua chua, thanh thanh , thơm thơm. Cắn vào lớp vỏ giòn chấm nước sốt cay nhẹ, thật là sự kết hợp tuyệt vời.",
+          "status": "1",
+          "writer": "Admin",
+          "image": "https://i.imgur.com/Hn58DuC.jpg",
+          "id": 6,
+          "quanlity": 4
+        },
+        {
+          "name": "Tôm chiên xốt chanh",
+          "price": "150k",
+          "description": "Tôm chiên xốt chanh là tổng hòa vị tôm ngọt với vị chanh chua chua, thanh thanh , thơm thơm. Cắn vào lớp vỏ giòn chấm nước sốt cay nhẹ, thật là sự kết hợp tuyệt vời.",
+          "image": "https://i.imgur.com/Hn58DuC.jpg",
+          "status": "1",
+          "writer": "Admin",
+          "createdAt": 1635912890648,
+          "id": 18,
+          "quanlity": 4
+        }
+      ],
+      "giaTriDonHang": 160,
+      "address": "USA",
+      "createdAt": 1635912997540,
+      "id": 1
+    }
+  ]
+}
+1
