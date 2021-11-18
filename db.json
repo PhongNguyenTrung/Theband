@@ -221,7 +221,15 @@
       "address": "USA",
       "createdAt": 1635912997540,
       "id": 1
-    }
+   
+  ],
+  "login":[
+      "accessToken": "",
+      "idUser": 1
+  ],
+  "register":[
+     "accessToken": "",
+      "idUser": 1
   ]
 }
 1
