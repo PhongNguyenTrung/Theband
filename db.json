@@ -224,11 +224,11 @@
     }
   ], 
   "login": [{
-    "accessToken":"";
+    "accessToken":"",
     "idUser":1
   }],
   "register": [{
-    "accessToken":"";
+    "accessToken":"",
     "idUser":1
   }],
 }
