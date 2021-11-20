@@ -225,7 +225,8 @@
       "password": "",
       "roleId": "",
       "username": "",
-      "id": ""
+      "id": "",
+      "accessToken":":
   }
 ]
 }
