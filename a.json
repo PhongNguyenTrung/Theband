@@ -1,11 +1,21 @@
-"login":[
-  {
-    accessToken:""
-  }
-],
+{
+"login": [
+    {
+      "username": "Angg78",
+      "productId": "2",
+      "content": "Món này khá ngon",
+      "createdAt": 1635215379210,
+      "id": 1
+    }
+  ], 
 
 "register":[
   {
-     accessToken:""
+      "username": "Angg78",
+      "productId": "2",
+      "content": "Món này khá ngon",
+      "createdAt": 1635215379210,
+      "id": 1
   }
 ]
+}
