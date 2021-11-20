@@ -168,20 +168,7 @@
       "id": "PcMHM-I"
     }
   ],
-  "historyBuyProducts": [
-    {
-      "userId": "5hlZ4t2",
-      "email": "quang@gmail.com",
-      "name": "Quang",
-      "address": "VN",
-      "phone": "02453200222",
-      "ma_don_hang": "e2fe3a67-4f21-49af-8216-871a47b39776",
-      "price": 150,
-      "status": "Đang giao",
-      "createdAt": 1635912997517,
-      "id": 1
-    }
-  ],
+ 
   "detailsCart": [
     {
       "ma_don_hang": "e2fe3a67-4f21-49af-8216-871a47b39776",
@@ -213,5 +200,26 @@
       "createdAt": 1635912997540,
       "id": 1
     }
-  ]
+  ],
+  {
+"login": [
+    {
+      "username": "Angg78",
+      "productId": "2",
+      "content": "Món này khá ngon",
+      "createdAt": 1635215379210,
+      "id": 1
+    }
+  ], 
+
+"register":[
+  {
+      "username": "Angg78",
+      "productId": "2",
+      "content": "Món này khá ngon",
+      "createdAt": 1635215379210,
+      "id": 1
+  }
+]
+}
 }
