@@ -221,9 +221,11 @@
 ],
   "register":[
   {
-      "accessToken": "",
-      "idUser": "",
-      "cart": "Món này khá ngon"
+      "email": "",
+      "password": "",
+      "roleId": "",
+      "username": "",
+      "id": ""
   }
 ]
 }
